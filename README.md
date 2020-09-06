@@ -2,10 +2,10 @@
 
 ### 第一个网页
 
-点击进入>https://github-mingming.github.io/page_1
+点击进入>https://github-mingming.github.io/page_1.md
 
 第二个网页：
 
-点击进入>https://github-mingming.github.io/page_2
+点击进入>https://github-mingming.github.io/page_2.md
 
 
